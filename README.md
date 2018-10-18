@@ -62,7 +62,7 @@ git clone https://github.com/leriomaggio/develer-data-science.git
     * Robust Machine Learning: _selection bias and cross-validation_
 
 
-- **Level IV**) _Arch-Mage_ : **Deep Learning & Pythonic perspective**
+- **Level IV**) _Arch-Mage_ : **Deep Learning & Pythonic perspectives**
     * What is _Deep Learning_
     * Deep Learning frameworks
     * Introduction to Keras
