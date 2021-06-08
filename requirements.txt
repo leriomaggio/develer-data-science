@@ -8,7 +8,7 @@ pandas~=0.23.4
 scikit-learn~=0.20.0
 scipy~=1.1.0
 tensorflow>=1.10.0
-Pillow==7.1.0  # necessary to matplotlib to load png
+Pillow==8.2.0  # necessary to matplotlib to load png
 pscript>=0.6.1  # bokeh custom javascript
 openpyxl>=2.5.8  # Excel write pandas
 xlrd>=1.1.0  # Excel read pandas
